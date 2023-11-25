@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// 6 + 4 + 2 + 4 = 14 bytes
+// 6 + 4 + 2 + 4 = 16 bytes
 int main()
 {
   struct infos
